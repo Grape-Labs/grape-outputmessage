@@ -1,0 +1,33 @@
+{
+    "name": "grape_outputmessage",
+    "version": "2.0.0",
+    "private": true,
+    "scripts": {
+        "outputmessage": "node --experimental-specifier-resolution=node outputmessage.js"
+    },
+    "_moduleAliases": {
+        "$lib": "./lib",
+        "$schema": "./schemas",
+        "@model": "models"
+    },
+    "type": "module",
+    "dependencies": {
+         "babel-eslint": "^10.1.0",
+        "body-parser": "^1.19.0",
+        "compression": "^1.7.4",
+        "config": "^3.0.1",
+        "discord.js": "^13.0.0",
+        "dotenv": "^10.0.0",
+        "eventemitter3": "^4.0.7",
+        "mkpath": "^1.0.0",
+        "module-alias": "^2.2.0",
+        "npm": "^7.20.0",
+        "pg": "^8.6.0",
+        "walkdir": "0.4.1"
+            },
+    "devDependencies": {
+        "@babel/core": "^7.14.3",
+        "@babel/eslint-parser": "^7.14.4",
+        "nodemon": "^2.0.7"
+    }
+}
