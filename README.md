@@ -32,7 +32,10 @@ Discord.js simple script to output custom verification message on any channel th
 
 <img src="https://github.com/Grape-Labs/grape-outputmessage/blob/4f841f2d46c5ca57cd6296f119bd65a680d824ba/Images/emoji-select.png" width="50%" />
 
-- Similarly, you can edit emojiText & emojiText2 to choose what message the bot outputs.
+- Similarly, you can edit emojiText & emojiText2 to choose what message the bot outputs. 
+
+<img src="https://github.com/Grape-Labs/grape-outputmessage/blob/e575fc924f5706d19d815a58b7edca21163c3963/Images/emoji-text.png" width="90%" />
+
 - If you've deployed your OWN dashboard, edit the reference below:
 
 <img src="https://github.com/Grape-Labs/grape-outputmessage/blob/3a60b5679bd968973e58f1f265c9e44b36298c25/Images/link-redirect.png" width="80%" />
