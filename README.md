@@ -7,10 +7,10 @@ Discord.js simple script to output custom verification message on any channel th
 
 ## Discord
 - Go to [Discord Application Developer Portal](https://discord.com/developers/applications) and create a new application.
-- Copy the bot ID found in General Information under Application ID (that's the bot ID).
+- Copy the bot ID found in **General Information** under **Application ID** (that's the bot ID).
 - Once application is created, click on the **Bot** section and select **Add Bot**.
-- Click Copy on Token section (you will need this token in the .env file which you will rename in the steps below), otherwise click on re-generate button if Copy button doesn't show up.
-- To enable developer mode, go to User Settings --> Advanced --> Toggle Developer Mode button.
+- Click **Copy** on Token section (you will need this token in the .env file which you will rename in the steps below), otherwise click on re-generate button if Copy button doesn't show up.
+- To enable developer mode, go to User *Settings* --> *Advanced* --> Toggle *Developer Mode* button.
 - On your discord server, create a new channel for verification.
 - Right click the newly created channel and select '__Copy ID__'.
 - Invite the bot to the server using the following link: https://discord.com/oauth2/authorize?client_id="YOURBOTIDHERE"scope=bot&permissions=88382860368
