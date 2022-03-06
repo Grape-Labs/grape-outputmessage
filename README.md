@@ -23,9 +23,12 @@ Discord.js simple script to output custom verification message on any channel th
 ## Setup
 - ```npm install``` --> To install necessary packages.
 - In root folder, rename the **env_example** to **.env** (or copy).
-- Edit .env file and set YOUR Discord bot Token along with verification channel ID.
+- Edit .env file and set YOUR Discord bot Token (DISCORD_BOT_TOKEN) along with verification channel ID (DISCORD_CHANNEL_ID).
 - To run bot enter ```npm run outputmessage```
 
 ## Customize
 - To edit output message to go /discord/role-claim.js
-- 
+- If you'd like to edit the emoji, change 'grapes' with the name of your CUSTOM emoji.
+- Similarly, you can edit emojiText & emojiText2 to choose what message the bot outputs.
+- If you've deployed your OWN dashboard, edit the reference below:
+ 
