@@ -29,6 +29,9 @@ Discord.js simple script to output custom verification message on any channel th
 ## Customize
 - To edit output message to go /discord/role-claim.js
 - If you'd like to edit the emoji, change 'grapes' with the name of your CUSTOM emoji.
+
+<img src="https://github.com/Grape-Labs/grape-outputmessage/blob/4f841f2d46c5ca57cd6296f119bd65a680d824ba/Images/emoji-select.png" width="50%" />
+
 - Similarly, you can edit emojiText & emojiText2 to choose what message the bot outputs.
 - If you've deployed your OWN dashboard, edit the reference below:
 
