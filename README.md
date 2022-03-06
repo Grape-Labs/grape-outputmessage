@@ -16,6 +16,8 @@ Discord.js simple script to output custom verification message on any channel th
 ### Discord Channel Permissions
 - In your chosen channel, add your bots (or GRAPE#0192 if invited) user and add the following permissions:
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 ## Technologies
 
 ## Setup
